@@ -1,22 +1,48 @@
 const projectsData = [
   {
-    title: 'Cylynx',
-    description: `Reimagining compliance and risk screening with solutions powered by network analytics. Exploring better ways to secure the financial system, improve human-machine collaboration and what it means to build a company.`,
+    title: 'ITViec Clone',
+    description: `2014 - Developed by NextJS & TailwindCSS. Led a team up to 12 developers`,
     imgSrc: '/static/img/cylynx-logo.png',
     href: 'https://www.cylynx.io',
   },
   {
-    title: 'Tailwind Nextjs Starter Blog',
-    description: `What this blog is based on! I maintain it seperately as a side project. An out of the box personal portfolio template, beautifully styled, completely customisable and built on one of the hottest frontend frameworks.`,
+    title: 'HideContent.ml',
+    description: `Developed by Javascript and PHP`,
+    imgSrc: '/static/img/sg-dashboard-pic.png',
+    href: '/dashboard/sg-dashboard.html',
+  },
+  {
+    title: 'StudentHub',
+    description: `Developed by Flutter`,
+    imgSrc: '/static/img/sg-dashboard-pic.png',
+    href: '/dashboard/sg-dashboard.html',
+  },
+  {
+    title: 'Gunny Shop',
+    description: `Developed by CSS3 & HTML5. `,
     imgSrc: '/static/img/demo-twitter-card.png',
     href: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   },
   {
-    title: 'Singapore Economy Dashboard',
-    description: `A dashboard covering Singapore's quarterly GDP and employment figures. Programmed in R and plotly. Nothing great technically but it holds a special place in my heart as one of my first creations.`,
-    imgSrc: '/static/img/sg-dashboard-pic.png',
-    href: '/dashboard/sg-dashboard.html',
+    title: 'Vexere App',
+    description: `Developed by Kotlin. `,
+    imgSrc: '/static/img/cylynx-logo.png. Led a team 4 developers',
+    href: 'https://www.cylynx.io',
   },
+  {
+    title: 'Vexere Website',
+    description: `Developed by React.js`,
+    imgSrc: '/static/img/cylynx-logo.png',
+    href: 'https://www.cylynx.io',
+  },
+  {
+    title: 'Ads Website',
+    description: `Developed by React.js`,
+    imgSrc: '/static/img/cylynx-logo.png',
+    href: 'https://www.cylynx.io',
+  },
+
+
 ]
 
 export default projectsData
